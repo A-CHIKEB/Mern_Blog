@@ -67,8 +67,8 @@ module.exports.register = async (req,res) =>{
 				service: 'gmail',
 				host: 'smtp.gmail.com',
 				auth: {
-					user: 'chikebaymen0@gmail.com',
-					pass: 'aymenchikeb20192020'
+					user: 'chikebaymen0@gmail.com',//votre email
+					pass: '**************'//votre password
 				}
 			});
 

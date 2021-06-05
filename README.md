@@ -19,6 +19,7 @@ A MERN BLOGGING PLATFORM WITH ADMIN DASHBORAD + CHATBOT + MULTI LANGUAGE
      <li>JWT Auth</li>
      <li>Password Bcrypt</li>
      <li>I18next</li>
+     <li>Email Verification</li>
   </ul>
 </details>
 
@@ -27,6 +28,7 @@ A MERN BLOGGING PLATFORM WITH ADMIN DASHBORAD + CHATBOT + MULTI LANGUAGE
 
 - [x] Register: creating user with password encrypted with bcrypt
 - [x] Login: JWT request the token with the token that is saved in local storage and redux state
+- [x] Email Verification: Email verified 📧
 - [x] Protected routes: If user is authenticated can access /login or /register
 - [x] Create posts: Users loggedin can create posts
 - [x] Create posts: Image upload through cloudinary
