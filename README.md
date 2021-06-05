@@ -2,6 +2,10 @@
 
 A MERN BLOGGING PLATFORM WITH ADMIN DASHBORAD + CHATBOT + MULTI LANGUAGE
 
+<img src="./client/public/images/logos/Blog-Article-MERN-Stack.jpeg" alt="Logo" width="80" height="80">
+
+
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Tools/Packages</summary>
@@ -33,6 +37,7 @@ A MERN BLOGGING PLATFORM WITH ADMIN DASHBORAD + CHATBOT + MULTI LANGUAGE
 - [x] Comments: Create redux actions for this
 - [x] Admin: Users / Posts / Comments + Charts + CRUD
 - [x] Multi language: English / Frensh / Arab
+- [x] ChatBot talk with a robot 🤖
 - [ ] Posts: Like button(A user can only like one time per post)
 - [ ] Posts: Add video ...
 
@@ -91,22 +96,18 @@ Go to backend
 ```
 cd backend
 ```
+
 ```shell
 npm run dev
 ```
 
 
-Now its ready to use
+Now its ready to use 😃
 
 ## How to run in production
-
-#Not yet
-
-
-## The project is ready to run  in heroku
-
-.....
-
+```
+Not Yet
+```
 
 
 ## License
