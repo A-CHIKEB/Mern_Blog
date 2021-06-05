@@ -2,7 +2,7 @@
 
 A MERN BLOGGING PLATFORM WITH ADMIN DASHBORAD + CHATBOT + MULTI LANGUAGE
 
-<img src="./client/public/images/logos/Blog-Article-MERN-Stack.jpeg" alt="Logo" width="80" height="80">
+<img src="./client/public/images/logos/Blog-Article-MERN-Stack.jpeg" alt="Logo" width="100%" height="100%">
 
 
 
