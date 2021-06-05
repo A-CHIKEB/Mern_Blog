@@ -1,0 +1,12 @@
+{
+	"app_title": "عنوان",
+	"language": "اللغة",
+	"welcome_message": "اهلا بكم",
+	"days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو",
+	"menu_Login":"اشتراك",
+	"menu_Register":"تسجيل",
+	"Best_Blogger":"أفضل مدون",
+	"form_email":"أدخل البريد الإلكتروني",
+	"form_password":"أدخل كلمة المرور",
+	"form_name":"أدخل الاسم"
+  }

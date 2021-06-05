@@ -1,0 +1,12 @@
+{
+	"app_title": "Titre",
+	"language": "Langue",
+	"welcome_message": "Bienvenue",
+	"days_since_release": "ça fait {{number_of_days}} jours depuis la sortie de cette vidéo",
+	"menu_Login":"Connexion",
+	"menu_Register":"Sinscrire",
+	"Best_Blogger":"Meilleur Blogueur",
+	"form_email":"Entrez votre e-mail",
+	"form_password":"Entrer votre mot de passe",
+	"form_name":"Entrez votre nom"
+  }

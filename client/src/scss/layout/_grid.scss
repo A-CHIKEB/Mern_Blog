@@ -1,0 +1,29 @@
+.row{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+// .col-1
+// .col-2
+// .col-3
+// .col-4
+// Or
+
+
+
+@for $i from 1 to 12 {
+	.col-#{$i}{
+		width: 100% / 12 * $i;
+
+		@include responsive(mobile){
+			width: 100%;
+		}
+		@include responsive(tablet){
+			width: 100%;
+		}
+		@include responsive(mobile){
+			width: 100%;
+		}
+	}
+}

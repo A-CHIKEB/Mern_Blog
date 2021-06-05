@@ -1,0 +1,12 @@
+{
+	"app_title": "Blog Platform",
+	"language": "Language",
+	"welcome_message": "Welcome",
+	"days_since_release": "it's been {{number_of_days}} days since this video was released",
+	"menu_Login":"Login",
+	"menu_Register":"Register",
+	"Best_Blogger":"Best Blogger",
+	"form_email":"Enter Email",
+	"form_password":"Enter Password",
+	"form_name":"Enter Name"
+  }
