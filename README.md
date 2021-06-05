@@ -83,17 +83,14 @@ SECRET=<MY_SECRET_KEY>
 First clone the project
 
 ```shell
-git clone https://github.com/achfull/Blog_Mern.git
-```
-
-Then install the node_modules (this installs the server and the client)
-
-```shell
-npm install
+git clone https://github.com/achfull/Mern_Blog.git
 ```
 
 For running frontend and backend in the same time
-
+Go to backend
+```
+cd backend
+```
 ```shell
 npm run dev
 ```
