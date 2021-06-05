@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "server": "nodemon ./index.js",
-    "client": "npm start --prefix client",
+    "client": "cd ../client && npm run start",
     "clientInstall": "npm install --prefix client",
-    "dev": "concurrently --kill-others \"npm run client\" \"npm run server\""
+    "dev": "concurrently \"npm run client\" \"npm run server\" "
   },
   "keywords": [],
   "author": "",

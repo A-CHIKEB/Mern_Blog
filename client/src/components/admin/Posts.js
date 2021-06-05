@@ -8,7 +8,7 @@ import {AiFillCheckCircle} from 'react-icons/ai'
 import moment from 'moment'
 
 
-import '../../../../node_modules/react-vis/dist/style.css';
+import '../../../node_modules/react-vis/dist/style.css';
 import { XYPlot, LineSeries,XAxis,YAxis,VerticalGridLines,HorizontalGridLines } from "react-vis";
 
 

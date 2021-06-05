@@ -1,10 +1,23 @@
-# Blog_Mern
+# MERN BLOG PLATFORM
 
-A MERN blog is not hosted on heroku
+A MERN BLOGGING PLATFORM WITH ADMIN DASHBORAD + CHATBOT + MULTI LANGUAGE
 
-## Website
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul>
+     <li>React JS Hooks</li>
+     <li>Redux</li>
+     <li>React Router</li>
+     <li>React Helmet</li>
+     <li>SCSS/SASS</li>
+     <li>Node & Express</li>
+     <li>JWT Auth</li>
+     <li>Password Bcrypt</li>
+     <li>I18next</li>
+  </ul>
+</details>
 
-Not Yet
 
 ## Functionalities
 
@@ -19,14 +32,29 @@ Not Yet
 - [x] Comments: Comment form should only appear if loggedin
 - [x] Comments: Create redux actions for this
 - [x] Admin: Users / Posts / Comments + Charts + CRUD
-- [ ] NavBar: Create a dropdown with user profile and logout
+- [x] Multi language: English / Frensh / Arab
 - [ ] Posts: Like button(A user can only like one time per post)
 - [ ] Posts: Add video ...
 
 
 ## Before you start
 
-Install Node_module
+Go To Client
+Install All Package ⬇️
+```
+cd client 
+npm install
+```
+
+Go To Backend
+Install All Package ⬇️
+```
+cd backend 
+npm install
+```
+
+
+Add Your MongoDb Url ⬇️
 Change the URL of mongodb if you dont have access 💥
 ```.env
 URL=<mongodb+srv.....>
@@ -82,3 +110,14 @@ Now its ready to use
 
 .....
 
+
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Your Name - [@aymen_chikeb]
